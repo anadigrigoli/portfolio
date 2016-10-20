@@ -193,7 +193,7 @@ color: #acacac !important;}
 	text-align: center;
 	color: #fff;
 	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #7bc3d1;
+	background-color: #121d1f;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -329,7 +329,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fafafa', end
 /* Skills Section */
 #skills {
 	padding: 100px 0;
-	background: #7bc3d1;
+	background: #121d1f;
 }
 #skills h2 {
 	color: #fff;
@@ -395,7 +395,7 @@ ol.type li {
 	margin-left: 20px;
 }
 ol.type li a {
-	background: #7bc3d1;
+	background: #e56d8f;
 	color: #fff;
 	padding: 6px 14px;
 }
@@ -508,7 +508,7 @@ ol.type li a:hover {
 /* Achivements Section */
 #achievements {
 	padding: 100px 0;
-	background: #7bc3d1;
+	background: #e56d8f;
 }
 #achievements h2 {
 	color: #fff;
@@ -757,7 +757,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #a0a5a5;
 }
 #footer a:hover {
-	color: #7bc3d1;
+	color: #e56d8f;
 }
 
 /* Media Queries */
